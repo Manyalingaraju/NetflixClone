@@ -15,8 +15,4 @@ This is a **frontend-only Netflix clone** created using just **HTML, CSS, and Ja
 - 🎥 Simple banner section with dynamic content
 - 📺 Basic JavaScript interactions (like menu toggle)
 
-## 🛠️ Installation & Setup
-### Clone the repo:
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/netflix-clone.git
-cd netflix-clone
+
